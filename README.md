@@ -21,15 +21,15 @@ All tasks require a root user.  Do the following to grab the repositories
 
 Local notes
 ===========
- cd /usr/tools
- make clean-<type>
- make update
- make base
- make kernel
- make ports
- make plugins
- make core
- make dvd/vga/nano/vm
+ cd /usr/tools  
+ make clean-<type>  
+ make update  
+ make base  
+ make kernel  
+ make ports  
+ make plugins  
+ make core  
+ make dvd/vga/nano/vm  
 
 TL;DR
 =====
