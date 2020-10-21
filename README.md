@@ -19,6 +19,18 @@ All tasks require a root user.  Do the following to grab the repositories
     # cd tools
     # make update
 
+Local notes
+===========
+ cd /usr/tools
+ make clean-<type>
+ make update
+ make base
+ make kernel
+ make ports
+ make plugins
+ make core
+ make dvd/vga/nano/vm
+
 TL;DR
 =====
 
